@@ -1,6 +1,6 @@
 # Game Project
 
-Para correr el juego debes seguir las siguientes instrucciones en la terminal:
+Para correr el juego debes seguir las siguientes instrucciones en la terminal este es un fork hecho por jose gandica:
 
 ```sh
 cd game
