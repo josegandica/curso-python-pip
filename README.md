@@ -10,7 +10,9 @@ python3 main.py
 
 # App Project
 
-```sh
+```
+En la terminal
+sh
 git clone
 cd app
 python3 -m venv env
